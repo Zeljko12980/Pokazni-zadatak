@@ -324,3 +324,4 @@ C:\Users\ikano\source\repos\Zeljko12980\Pokazni-zadatak\api\obj\Debug\net9.0\ref
 C:\Users\ikano\source\repos\Zeljko12980\Pokazni-zadatak\api\obj\Debug\net9.0\api.pdb
 C:\Users\ikano\source\repos\Zeljko12980\Pokazni-zadatak\api\obj\Debug\net9.0\api.genruntimeconfig.cache
 C:\Users\ikano\source\repos\Zeljko12980\Pokazni-zadatak\api\obj\Debug\net9.0\ref\api.dll
+C:\Users\ikano\source\repos\Zeljko12980\Pokazni-zadatak\api\obj\Debug\net9.0\api.sourcelink.json
